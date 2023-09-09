@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color:rgb(199, 196, 196);
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 60px;
+    font-size: 24px;
+    color: rgb(39, 38, 38);
+   
+}
+.steps_text{
+    font-size: 18px;
+    font-style: italic;
+}
+.steps__block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 5px;
+  
+  
+}
+.steps{
+    width:40%;
+   
+}
+.steps__images{
+margin-top: 20px;
+}
+.steps__image{
+    margin-top:53px;
+}
+.end__block{
+  font-style: italic;
+ 
+}
